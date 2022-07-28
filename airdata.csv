@@ -1,0 +1,5 @@
+bookingNumber ,currency,noOfPassengers,email,firstname,lastname,phone,language,wa,sms,airlineName,airlineCode,flightno,originAirportCode,destAirportCode,departuretime,supportCost,supportPackage
+TEST-20072022-6E5318-8,USD,1,sayantan@airlegit.com,sayantan,dey,91-9433858223,en,TRUE,TRUE,Indigo,6E,5318,DEL,BOM,20-07-2022 17:00,9.95,R
+TEST-20072022-6E5318-9,USD,1,amit@airlegit.com,amit,paul,91-9324575845,en,TRUE,TRUE,AirIndia,7E,5432,DEL,BOM,21-07-2022 17:00,9.95,R
+TEST-20072022-6E5318-10,USD,1,soureen@airlegit.com,soureen,das,91-9324575855,en,TRUE,TRUE,Indigo,8E,5444,DEL,BOM,22-07-2022 17:00,8.86,R
+TEST-20072022-6E5318-11,USD,1,riju@airlegit.com,riju,pramanik,91-9876575855,en,TRUE,TRUE,Indigo,9E,5896,DEL,BOM,23-07-2022 17:00,8.86,R
